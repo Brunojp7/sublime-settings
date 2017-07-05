@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Extended Completions",
+		"Emmet",
+		"HTML5",
+		"Inc-Dec-Value",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Soda"
+	]
+}
